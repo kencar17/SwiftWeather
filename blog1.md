@@ -2,7 +2,7 @@
 
 SwiftWeather  is an iOS weather app developed in Swift 2. 
 
-## Install Instructions That worked for me.
+## Install Instructions That worked for me. (Artifact One)
 
   Once I decided to work on this application I forked the project into a repo in under my account, and then
 cloned the project down to my local machine to begin working on it.
@@ -40,3 +40,6 @@ cloned the project down to my local machine to begin working on it.
   a step further and made an archive and .ipa to try the app on my phone. In the test I did on my phone the app worked
   fine and did what it was suppose to do, but i did notice that the app would sometimes show St. Albert weather instead
   of Edmontons weather.
+
+## Add Feature to change background (Artifact Two)
+
