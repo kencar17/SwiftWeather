@@ -43,3 +43,40 @@ cloned the project down to my local machine to begin working on it.
 
 ## Add Feature to change background (Artifact Two)
 
+  In the process of playing around with the app, I did not reallt care about the background that much. So i decided on
+adding a feature where you can change your background to one that you would like more.
+
+  To accomplish this task I created two files.
+  
+  ![Files Created Screen Shot](filesAdded.png)
+  
+  - OptionsViewController.sift:
+      - Handles the GUI elements of the View.
+        - I used a Navigation bar 
+        - Collection View
+        - UIImage
+        - Label
+        - Prototype cell
+      - The Controller handles the displaying the background into the collections view. It also handles
+        if a user selects a image and changes the background with the selected image. As well the controller
+        handles going back to the main view. 
+      - Also the Controller also handles passing data between the two controllers via a segue. This is used to
+        pass the current background between the two views.
+
+  ![Elements Screen Shot](elements.png)
+  
+  The controller can be found [here] (https://github.com/kencar17/SwiftWeather/blob/blog/SwiftWeather/OptionsViewController.swift).
+
+  - MyCollectionViewCell.swift
+      - Handles the prototype cell used by the collection view.
+      - All this file does is it creates a cell to be used with the collection cell.
+      - This file holds a IBOutlet for a UIimage
+
+  The ColectionViw cell can be found [here] (https://github.com/kencar17/SwiftWeather/blob/blog/SwiftWeather/MyCollectionViewCell.swift).
+  
+  
+  Here is what the app looks like in the simulator with my additions (For some reason the simulator did not want to
+  show the location):
+  
+  ![Both Views Screen Shot](both screens.png)
+  
