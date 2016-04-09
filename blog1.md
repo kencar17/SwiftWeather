@@ -22,6 +22,6 @@ cloned the project down to my local machine to begin working on it.
 - Step Three: Now I had to cd  into "SwiftWeather.xcworkspace", and make a directory called .access_tokens and 
               echo in an appID. To get the appId I had to sign up on [openweathermap.org/appid](http://openweathermap.org/appid. 
               
-![AppID Screen Shot](AppId.png)
+![AppID Screen Shot](appId.png)
 
             c
