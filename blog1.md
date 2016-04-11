@@ -1,6 +1,8 @@
 #SwiftWeather
 
-SwiftWeather  is an iOS weather app developed in Swift 2. 
+SwiftWeather  is an iOS weather app developed in Swift 2.
+
+The project falls under the MIT license.
 
 ## Install Instructions That worked for me. (Artifact One)
 
