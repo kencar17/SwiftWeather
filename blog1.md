@@ -80,5 +80,9 @@ adding a feature where you can change your background to one that you would like
   Here is what the app looks like in the simulator with my additions (For some reason the simulator did not want to
   show the location):
   
-  ![Both Views Screen Shot](both screens.png)
+  ### Original Background
+  ![Original Screen Shot](original.png)
+  
+  ### Changed Background
+  ![Changed Screen Shot](changed.png)
   
