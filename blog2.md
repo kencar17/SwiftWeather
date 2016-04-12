@@ -82,3 +82,6 @@ screen shots was my attempt at adding CoreData.
 
 
 - After making a Pull Request i realized that my features and changes werent ready to be merged so i closed it myself.
+
+
+[Closed PR] (https://github.com/JakeLin/SwiftWeather/pull/47).
