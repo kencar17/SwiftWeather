@@ -76,4 +76,9 @@ screen shots was my attempt at adding CoreData.
 ## Pull Request (Artifact 4)
   - After I undid all the changes and additions I made for the CoreData, I went back and performed tests to make sure that
   I did not break anything and that it still worked. The PR only contained my feature that I added.
-  
+
+
+  ![PR File Screen Shot](PR.png)
+
+
+- After making a Pull Request i realized that my features and changes werent ready to be merged so i closed it myself.
